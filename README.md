@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lakshyaroy&label=Profile%20views&color=0e75b6&style=flat" alt="lakshyaroy" /> </p>
 
-<p align="left"> <a href="https://twitter.com/@lakshya729" target="blank"><img src="https://img.shields.io/twitter/follow/@lakshya729?logo=twitter&style=for-the-badge" alt="@lakshya729" /></a> </p>
+<p align="left"> <a href="https://twitter.com/@lakshya729" target="blank"><img src="https://img.shields.io/x/follow/lakshya729?logo=twitter&style=for-the-badge" alt="@lakshya729" /></a> </p>
 
 - 🔭 I’m currently working on [React project](https://lakshyaroy-bitmesra-portfolio.netlify.app/)
 
