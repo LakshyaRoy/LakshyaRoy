@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/@lakshya729" target="blank"><img src="https://img.shields.io/x/follow/lakshya729?logo=twitter&style=for-the-badge" alt="@lakshya729" /></a> </p>
 
-- 🔭 I’m currently working on [React project](https://lakshyaroy-bitmesra-portfolio.netlify.app/)
+- 🔭 I’m currently working on Next JS
 
-- 🌱 I’m currently learning **Javascript , React , Tailwind**
+- 🌱 I’m currently learning **Next Js , React , TypeScript**
 
-- 👯 I’m looking to collaborate on **Any Javascript/React projects**
+- 👯 I’m looking to collaborate on **Any NextJS/React projects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/LakshyaRoy](https://github.com/LakshyaRoy)
 
